@@ -23,7 +23,7 @@ main{
 }
 div{
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
-    background-color: #fe7f1b;
+    background-color: #47a9f3;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -33,7 +33,9 @@ div{
     cursor: pointer;
 }
 div:hover{
-    background-color: #47a9f3;
+    background-color: #f0f9ff;
+    color: #47a9f3;
+    border:2px solid #47a9f3;
     scale: 1.1;
 
 }
