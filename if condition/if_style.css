@@ -44,6 +44,7 @@ body{
     border-radius: 10px;
     cursor: pointer;
     color: #f0f9ff;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
     
 }
 .op:hover , #next-level:hover{
@@ -59,10 +60,12 @@ body{
     justify-content: center;
     background-color: #f7e57f;
     border-radius: 20px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
 }
 #next-level{
     background-color: #fe7f1b;
     padding: 10px;
     border-radius: 10px;
     cursor: pointer;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
 }

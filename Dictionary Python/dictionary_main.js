@@ -30,7 +30,7 @@ key.addEventListener('keydown',(event)=>{
     }
 })
 next.addEventListener('click',()=>{
-  window.location.href = "next.html";
+  window.location.href = "dictionary_nextLevel.html";
 })
 
 function displayBoxes(box) {
