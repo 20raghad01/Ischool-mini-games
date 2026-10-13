@@ -114,7 +114,7 @@ index.addEventListener('keydown',(event)=>{
         event.preventDefault(); 
         if (index.value==27){
           print.innerText=`${box[27].value}`
-          result.innerText="Great job ...Wasn't Easy Right ?!!"
+          result.innerText="Great job 🎉 ...Wasn't Easy Right ?!!"
           result.style.color='rgb(37, 211, 102)'
           next.style.display='flex'
         }

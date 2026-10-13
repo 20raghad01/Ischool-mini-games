@@ -1,7 +1,7 @@
 
 *{
     background-color: #f0f9ff;
-     font-family: cursive;
+    font-family: 'Patrick Hand';
      text-align: center;
 }
 h1{
@@ -31,12 +31,13 @@ div{
     align-items: center;
     font-size: 30px;
     font-weight: 500;
-    background-color: #47a9f3;
+    background-color: #056fec;
+    color: #f0f9ff;
     border-radius: 10px;
 }
 div:active,div:hover{
     cursor: pointer;
-    background-color: rgb(37, 211, 102);
+    /**background-color: rgb(37, 211, 102);**/
     scale: 1.1;
 }
 p{

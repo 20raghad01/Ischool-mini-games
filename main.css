@@ -1,6 +1,6 @@
 @import url('https://googleapis.com');
 *{
-    --main-blue:#056fec
+    --main-blue:#056fec;
 }
 body{
     display: flex;
@@ -34,10 +34,11 @@ div{
     margin: 10px;
     border-radius: 10px;
     cursor: pointer;
+    color:#f0f9ff;
 }
 div:hover{
-    background-color: transparent;
-    color: #47a9f3;
+    background-color: rgba(255, 255, 255, 0);
+    color: var(--main-blue);
     border:2px solid var(--main-blue);
     scale: 1.1;
 

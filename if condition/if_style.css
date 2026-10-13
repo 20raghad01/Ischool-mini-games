@@ -10,7 +10,7 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
-    font-family: cursive;
+    font-family: 'Patrick Hand';
 }
 .p1{
     display: inline-block;
@@ -38,15 +38,16 @@ body{
 .op{
     font-size: 25px;
     display: inline-block;
-    background-color: #47a9f3;
+    background-color: #056fec;
     padding: 10px;
     margin: 10px;
     border-radius: 10px;
     cursor: pointer;
+    color: #f0f9ff;
     
 }
 .op:hover , #next-level:hover{
-    background-color: rgb(37, 211, 102);
+    /**background-color: rgb(37, 211, 102);**/
     scale: 1.1;
 }
 .options{
